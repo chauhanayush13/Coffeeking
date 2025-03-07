@@ -1,0 +1,18 @@
+@media (min-width:300px) and (max-width:800px){
+    .image1{
+        height:99%;
+    }
+}
+
+@media (min-width:800px) and (max-width:1000px){
+    .image1{
+        height:90%;
+    }
+}
+
+@media (min-width:1000px) and (max-width:1300px){
+    .image1{
+        height:97%;
+    }
+}
+

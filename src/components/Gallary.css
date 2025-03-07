@@ -1,0 +1,100 @@
+.gallary{
+    background-color: white;
+    width:100%;
+}
+
+.heading1{
+    height: auto;
+    background: url('../images/inner_parallax.jpg') center/cover no-repeat;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.coffeeking1{
+    color:white;
+    transition: color .5s ease;
+}
+
+.coffeeking1:hover{
+    color:#be9748;
+}
+
+.title1{
+    font-size: 1.5rem;
+}
+
+.card{
+    border:none;
+}
+.image {
+    transition: all 0.3s ease-in-out;
+}
+
+.image:hover {
+    height: 100%;
+    opacity: .5;
+    transition: opacity 0.3s ease-in-out;
+}
+
+@media (min-width:300px) and (max-width:400px){
+    .gallary{
+        width:400px;
+    }
+}
+
+@media (min-width:400px) and (max-width:500px){
+    .gallary{
+        width:500px;
+    }
+}
+
+@media (min-width:500px) and (max-width:600px){
+    .gallary{
+        width:600px;
+    }
+}
+
+@media (min-width:600px) and (max-width:700px){
+    .gallary{
+        width:700px;
+    }
+}
+
+@media (min-width:700px) and (max-width:800px){
+    .gallary{
+        width:800px;
+    }
+}
+
+@media (min-width:800px) and (max-width:900px){
+    .gallary{
+        width:900px;
+    }
+}
+
+@media (min-width:900px) and (max-width:1000px){
+    .gallary{
+        width:1000px;
+    }
+}
+
+@media (min-width:1000px) and (max-width:1100px){
+    .gallary{
+        width:1100px;
+    }
+}
+
+@media (min-width:1100px) and (max-width:1200px){
+    .gallary{
+        width:1200px;
+    }
+}
+
+
+
+
+
+
+
+
+

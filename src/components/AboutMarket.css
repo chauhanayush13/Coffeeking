@@ -1,0 +1,330 @@
+    .about{
+        width:100%;
+    }
+    .img3{
+        padding-top: 5rem;
+        padding-bottom: 9rem;
+    }
+
+
+    .who{
+        color: #af8f72;
+        font-weight: bold;
+        font-size: 22px;
+    }
+
+    .about_market{
+        font-weight: bold;
+        font-size: 55px;
+    }
+
+    .para{
+        font-size: 22px;
+        width: 70%;
+        text-align: justify;
+    }
+
+    .titles{
+        font-weight: bold;
+    }
+    .div3{
+        margin-top:30px;
+    }
+    .div4{
+        margin-top:30px;
+    }
+    
+    .background{
+        height:40rem;
+    }
+
+    @media (min-width:300px) and (max-width:400px){
+        .background{
+            height: 95rem;
+        }
+        .about.d-flex{
+            display: block !important;
+        }
+        
+        .about{
+            margin-left: -3rem;
+        }
+        .about_market{
+            font-size: 3rem;
+            width:20rem;
+        }
+        .para{
+            width:23rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+        .sign{
+            margin-bottom: 2rem;
+        }
+        .features.d-flex{
+            display: block !important;
+        }
+        .para1{
+            width: 23rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+    }
+
+    @media (min-width:400px) and (max-width:500px){
+        .background{
+            height: 100rem;
+        }
+        .about.d-flex{
+            display: block !important;
+        }
+        
+        .about{
+            margin-left: -6rem;
+        }
+        .about_market{
+            font-size: 3rem;
+            width:20rem;
+        }
+        .para{
+            width:30rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+        .sign{
+            margin-bottom: 2rem;
+        }
+        .features.d-flex{
+            display: block !important;
+        }
+        .para1{
+            width: 30rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+    }
+
+    @media (min-width:500px) and (max-width:600px){
+        .background{
+            height: 90rem;
+        }
+        .about.d-flex{
+            display: block !important;
+        }
+        
+        .about{
+            margin-left: -6rem;
+        }
+        .about_market{
+            font-size: 3rem;
+            width:20rem;
+        }
+        .para{
+            width:36rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+        .sign{
+            margin-bottom: 2rem;
+        }
+        .features.d-flex{
+            display: block !important;
+        }
+        .para1{
+            width: 36rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+    }
+
+    @media (min-width:600px) and (max-width:700px){
+        .background{
+            height: 90rem;
+        }
+        .about.d-flex{
+            display: block !important;
+        }
+        
+        .about{
+            margin-left: -6rem;
+        }
+        .about_market{
+            font-size: 3rem;
+            width:20rem;
+        }
+        .para{
+            width:42rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+        .sign{
+            margin-bottom: 2rem;
+        }
+        .features.d-flex{
+            display: block !important;
+        }
+        .para1{
+            width:42rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+    }
+
+    @media (min-width:700px) and (max-width:800px){
+        .background{
+            height: 70rem;
+        }
+        .about.d-flex{
+            display: block !important;
+        }
+        .about{
+            margin-left: -1rem;
+        }
+        .about_market{
+            width:23rem;
+        }
+        .para{
+            width:38rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+        .div2{
+            margin-left: 60px;
+        }
+        .div4{
+            margin-left: 60px;
+        }
+        .para1{
+            width: 17rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+    }
+
+    @media (min-width:800px) and (max-width:900px){
+        .background{
+            height: 70rem;
+        }
+        .about.d-flex{
+            display: block !important;
+        }
+        .about{
+            margin-left: -1rem;
+        }
+        .about_market{
+            width:23rem;
+        }
+        .para{
+            width:45rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+        .div2{
+            margin-left: 140px;
+        }
+        .div4{
+            margin-left: 140px;
+        }
+        .para1{
+            width: 18rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+    }
+    
+    @media (min-width:900px) and (max-width:1000px){
+        .background{
+            height: 70rem;
+        }
+        .about.d-flex{
+            display: block !important;
+        }
+        .about{
+            margin-left: -1rem;
+        }
+        .about_market{
+            width:23rem;
+        }
+        .para{
+            width:50rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+        .div2{
+            margin-left: 150px;
+        }
+        .div4{
+            margin-left: 150px;
+        }
+        .para1{
+            width:20rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+    }
+
+    @media (min-width:1000px) and (max-width:1100px){
+        .background{
+            height: 70rem;
+        }
+        .about.d-flex{
+            display: block !important;
+        }
+        .about{
+            margin-left: -1rem;
+        }
+        .about_market{
+            width:23rem;
+        }
+        .para{
+            width:55rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+        .div2{
+            margin-left: 150px;
+        }
+        .div4{
+            margin-left: 150px;
+        }
+        .para1{
+            width:20rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+    }
+
+    @media (min-width:1100px) and (max-width:1200px){
+        .background{
+            height: 70rem;
+        }
+        .about.d-flex{
+            display: block !important;
+        }
+        .about{
+            margin-left: -1rem;
+        }
+        .about_market{
+            width:23rem;
+        }
+        .para{
+            width:60rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+        .div2{
+            margin-left: 150px;
+        }
+        .div4{
+            margin-left: 150px;
+        }
+        .para1{
+            width:20rem;
+            font-size: 20px;
+            text-align: justify;
+        }
+    }
+
+
+
+

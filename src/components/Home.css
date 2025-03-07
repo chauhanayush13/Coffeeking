@@ -1,0 +1,239 @@
+/* .home{
+    width:20%;
+} */
+
+.hero{
+    padding-top: 15rem;
+}
+
+.btn1{
+    font-size: 18px;
+    width:12rem;
+    height:3rem;
+    color:white;
+    background-color: #bda982;
+    font-weight: bold;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.btn1:hover{
+    color:black;
+    background-color: aliceblue;
+    width:190px;
+    height:47px;
+    border-radius: 3px;
+}
+
+
+@keyframes fadeInBright {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.animation {
+    animation: fadeInBright 1s ease-in-out forwards;
+}
+
+
+
+@media (min-width:300px) and (max-width:800px){
+    .home{
+        margin-top: -135px;
+    }
+    .design-image{
+        margin-top: 10rem;
+
+    }
+}
+
+@media (min-width:800px) and (max-width:1000px){
+    .home{
+        margin-top: -135px;
+    }
+    .design-image{
+        margin-top: 7rem;
+    }
+}
+
+@media (min-width:1000px) and (max-width:1300px){
+    .design-image{
+        margin-top: 0px;
+    }
+}
+
+@media (min-width:300px) and (max-width:400px){
+    .about_component{
+        margin-left: 0 !important;  
+        margin-top: 0 !important;   
+        margin-bottom: 0 !important;
+        width:380px;
+    }
+    .img3{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        height: 30rem;
+    }
+    .home{
+        width:400px;
+    }
+    .hero{
+        padding-top: 30rem;
+    }
+}
+
+@media (min-width:400px) and (max-width:500px){
+    .about_component{
+        margin-top: 0 !important;   
+        margin-bottom: 0 !important;
+        width:400px;
+    }
+    .img3{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        height: 30rem;
+    }
+    .home{
+        width:500px;
+    }
+    .hero{
+        padding-top: 30rem;
+    }
+}
+
+@media (min-width:500px) and (max-width:600px){
+    .about_component{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        width:400px;
+    }
+    .img3{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        height: 30rem;
+    }
+    .home{
+        width:600px;
+    }
+    .hero{
+        padding-top: 30rem;
+    }
+}
+
+
+@media (min-width:600px) and (max-width:700px){
+    .about_component{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        width:400px;
+    }
+    .img3{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        height: 30rem;
+    }
+    .home{
+        width:700px;
+    }
+    .hero{
+        padding-top: 30rem;
+    }
+}
+
+@media (min-width:700px) and (max-width:800px){
+    .about_component{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        width:400px;
+    }
+    .img3{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        height: 30rem;
+    }
+    .home{
+        width:800px;
+    }
+    .hero{
+        padding-top: 25rem;
+    }
+}
+
+@media (min-width:800px) and (max-width:900px){
+    .about_component{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        width:400px;
+    }
+    .img3{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        height: 30rem;
+    }
+    .home{
+        width:900px;
+    }
+    .hero{
+        padding-top: 25rem;
+    }
+}
+
+@media (min-width:900px) and (max-width:1000px){
+    .about_component{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        width:400px;
+    }
+    .img3{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        height: 30rem;
+    }
+    .home{
+        width:1000px;
+    }
+    .hero{
+        padding-top: 25rem;
+    }
+}
+
+@media (min-width:1000px) and (max-width:1100px){
+    .about_component{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        width:400px;
+    }
+    .img3{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        height: 30rem;
+    }
+    .home{
+        width:1100px;
+    }
+    .hero{
+        padding-top: 10rem;
+    }
+}
+
+@media (min-width:1100px) and (max-width:1200px){
+    .about_component{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        width:400px;
+    }
+    .img3{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        height: 30rem;
+    }
+    .home{
+        width:1200px;
+    }
+    .hero{
+        padding-top: 10rem;
+    }
+}
